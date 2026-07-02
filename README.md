@@ -1,6 +1,6 @@
 # Dungeon Synth Generator
 
-A Python script that generates randomized dungeon synth music piece character sheets with subgenre-specific atmospheric, compositional, and texture suggestions.
+A Python script that generates randomized dungeon synth music piece character sheets in the command line with subgenre-specific atmospheric, compositional, and texture suggestions.
 
 ## Features
 
