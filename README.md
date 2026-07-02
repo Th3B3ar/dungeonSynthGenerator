@@ -137,10 +137,7 @@ Customize the script by editing:
 ## How to Use the Output
 
 1. **For Composition**: Use the randomized parameters as starting points for your composition
-2. **For Game Design**: Use settings and motifs to guide ambient soundtrack creation
-3. **For D&D/TTRPG**: Generate atmospheric ambiance for dungeon scenes
-4. **For Inspiration**: Let the randomized combinations spark creative ideas
-5. **For Templates**: Build multiple character sheets as templates for variation sets
+2. **For Inspiration**: Let the randomized combinations spark creative ideas
 
 ## File Structure
 
